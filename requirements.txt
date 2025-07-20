@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+matplotlib
+plotly
+ta
+scikit-learn
+tensorflow
+streamlit
+mplfinance
+tensorflow
