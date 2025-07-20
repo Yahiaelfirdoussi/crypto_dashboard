@@ -1,4 +1,4 @@
-# crypto_dashboard
+
 # 📈 Dashboard Crypto – Analyse et Prédiction
 
 Ce projet propose un **dashboard dynamique** pour analyser et prédire les prix des cryptomonnaies (Bitcoin, Ethereum) en utilisant :
